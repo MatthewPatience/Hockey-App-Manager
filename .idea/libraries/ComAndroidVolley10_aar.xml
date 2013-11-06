@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ComAndroidVolley10.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HockeyAppManager/build/exploded-bundles/ComAndroidVolley10.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
